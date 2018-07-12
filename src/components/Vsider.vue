@@ -71,6 +71,7 @@
             el-menu-item(index='/audios/new') 添加音频
             el-menu-item(index='/guests') 嘉宾列表
             el-menu-item(index='/guests/new') 添加嘉宾
+            el-menu-item(index='/iftalk/comments') 留言列表
           el-menu-item-group(title='订单')
             el-menu-item(index='/orders') 内容订单
             el-menu-item(index='/orders/member_order') 会员订单
